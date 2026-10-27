@@ -1,0 +1,10 @@
+disable pep12_*
+disable cluster_*
+enable pep12_79
+enable pep12_85
+enable pep12_73
+enable pep12_23
+enable pep12_5
+enable pep12_7
+enable pep12_30
+enable pep12_66
